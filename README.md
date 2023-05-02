@@ -1,6 +1,6 @@
 # ALBundeCrypt
 
-Code from Azur Lane for decoding/decrypting asset bundles, adapted to be more readable for humans.
+Code from shipgirl game for decoding/decrypting asset bundles, adapted to be more readable for humans.
 Also it can re encode/encrypt the bundle
 //NOTE: this only encodes the bundle not the wrapper, the game needs the wrapper in order to work, actually the game crashes with the bundle encrypted with this tool
 # Usage 
