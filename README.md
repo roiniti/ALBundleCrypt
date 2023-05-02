@@ -11,3 +11,5 @@ To use ALBundeCrypt, enter the following command in your terminal:
 -d decodes the input
 -e encodes the input
 Where "input" is the path to the input asset bundle file, and "output" is the path to the output file where the decoded asset bundle will be saved.
+
+Project based on [@jspzyhl/AzurLane5.0-uabDec](https://github.com/jspzyhl/AzurLane5.0-uabDec)
